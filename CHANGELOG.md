@@ -1,6 +1,6 @@
 # Strophe.js Change Log
 
-## Version 1.2.15 - (Unreleased)
+## Version 1.2.15 - (2018-01-25)
 * #259 XML element should be sent to xmlOutput
 * #266 Support Browserify/CommonJS. `require('strophe.js/src/wrapper')`
 
